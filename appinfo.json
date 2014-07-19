@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "johannes.baldinger@googlemail.",
+    "longName": "Fuzzy Deutsch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Watch1.png",
+                "menuIcon": true,
+                "name": "Image_Res",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "FuzzyDE",
+    "uuid": "10b204a1-f0a3-4d83-90e2-a2016800f198",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
